@@ -38,6 +38,11 @@ p {
     line-height: 30px;
 }
 
+img {
+    align-items: center;
+}
+
+
 .hero {
     background: var(--secondary-color);
     text-align: center;
